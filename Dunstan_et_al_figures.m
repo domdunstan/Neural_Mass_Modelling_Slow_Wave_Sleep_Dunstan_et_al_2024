@@ -7,7 +7,7 @@
 %                                                                             %           
 % Dominic M. Dunstan*, Samantha YS Chan, Marc Goodfellow                      %
 %                                                                             %
-%  [LINK TO PREPRINT ]                                                        %
+%  https://www.medrxiv.org/content/10.1101/2024.07.15.24310128v1              %
 %                                                                             %
 % Execution of this script recreates all main results figures in the above    %
 % manuscipt. See the paper for details.                                       %
@@ -16,7 +16,7 @@
 % authors of these toolboxes. In each case, the licenses are stated within    %
 % the corresponding header.                                                   %
 %                                                                             %
-% University of Exeter, 2024.                                                  %
+% University of Exeter, 2024.                                                 %
 % Please email me if you have any questions                                   %
 % *dmd206@exeter.ac.uk                                                        %
 % %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% % % %
