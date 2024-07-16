@@ -7,7 +7,7 @@
 %                                                                             %           
 % Dominic M. Dunstan*, Samantha YS Chan, Marc Goodfellow                      %
 %                                                                             %
-%  [LINK TO PREPRINT ]                                                        %
+%  https://www.medrxiv.org/content/10.1101/2024.07.15.24310128v1              %
 %                                                                             %
 % Execution of this script runs a single example of the                       %
 % Multiobjecitve evolutionary algorithm (MOEA).                               %
@@ -17,7 +17,7 @@
 % authors of these toolboxes. In each case, the licenses are stated within    %
 % the corresponding header.                                                   %
 %                                                                             %
-% University of Exeter, 2024.                                                  %
+% University of Exeter, 2024.                                                 %
 % Please email me if you have any questions                                   %
 % *dmd206@exeter.ac.uk                                                        %
 % %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% %% % % %
