@@ -1,5 +1,5 @@
 # Neural Mass Modelling Slow Wave Sleep Dunstan et al 2024
-This repository contains code to generate the figures and run the algorithms described in Dunstan et al. (2024) [LINK TO PREPRINT HERE]
+This repository contains code to generate the figures and run the algorithms described in Dunstan et al. (2024) https://www.medrxiv.org/content/10.1101/2024.07.15.24310128v1
 
 This software uses a number of external toolboxes. We are grateful to the 
 authors of these toolboxes. In each case, the licenses are stated within the corresponding header.
