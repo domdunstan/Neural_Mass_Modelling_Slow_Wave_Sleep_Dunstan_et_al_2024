@@ -11,4 +11,4 @@ For further details on optimizing neural mass models to data using evolutionary 
 
 Note, for computational efficiency, a mex function is generated and utilized throughout this toolbox. Hence, the mex functionality needs to be enabled. See Dunstan_et_al_figures.m for further details or https://www.mathworks.com/help/matlab/ref/mex.html.
 
-For any queries, please email me: dmd206@exeter.ac.uk
+For any queries, please email me: domdunstan2@gmail.com
